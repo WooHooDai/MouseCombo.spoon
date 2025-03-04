@@ -1,5 +1,6 @@
 # MouseCombo（鼠标连招）
 MouseCombo（鼠标连招） 是一个 Hammerspoon Spoon，**用于自定义鼠标按键组合**。
+
 通过按住一个鼠标键（修饰键）并点击其他鼠标按键组合（连招），来触发自定义动作。
 
 ## 功能特点
@@ -16,8 +17,8 @@ MouseCombo（鼠标连招） 是一个 Hammerspoon Spoon，**用于自定义鼠�
 - 按住左键，依次点击右键、前进、后退，触发关闭当前标签页（Ctrl + W）
 ## 安装方法
 
-1. 下载本仓库
-2. 将 `Source/MouseCombo.spoon` 目录复制到 `~/.hammerspoon/Spoons/` 目录下
+1. 下载本仓库，或者直接下载[插件压缩包](https://github.com/WooHooDai/MouseCombo/releases/tag/v0.1)
+2. 解压后将 `Source/MouseCombo.spoon` 目录复制到 `~/.hammerspoon/Spoons/` 目录下
 
 ## 使用方法
 

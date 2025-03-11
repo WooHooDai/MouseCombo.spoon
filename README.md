@@ -20,7 +20,7 @@ MouseCombo（鼠标连招） 是一个 Hammerspoon Spoon，**用于自定义鼠�
 
 ## 安装方法
 
-1. 下载本仓库，或者直接下载[插件压缩包](https://github.com/WooHooDai/MouseCombo/releases/tag/v0.1)
+1. 下载本仓库，或者直接下载[插件压缩包](https://github.com/WooHooDai/MouseCombo/releases/latest)
 2. 解压后将 `Source/MouseCombo.spoon` 目录复制到 `~/.hammerspoon/Spoons/` 目录下
 
 ## 使用方法

@@ -21,7 +21,8 @@ MouseCombo（鼠标连招） 是一个 Hammerspoon Spoon，**用于自定义鼠�
 ## 安装方法
 
 1. 下载本仓库，或者直接下载[插件压缩包](https://github.com/WooHooDai/MouseCombo.spoon/releases/latest)
-2. 解压后将文件夹（`MouseCombo.spoon`）复制到 `~/.hammerspoon/Spoons/` 目录下
+2. 解压后将文件夹重命名为 `MouseCombo.spoon`
+3. 将文件夹复制到 `~/.hammerspoon/Spoons/` 目录下
 
 ## 使用方法
 

@@ -1,7 +1,17 @@
-# MouseCombo（鼠标连招）
-MouseCombo（鼠标连招） 是一个 Hammerspoon Spoon，**用于自定义鼠标按键组合**。
+# MouseCombo.spoon（鼠标连招）
 
-通过按住一个鼠标键（修饰键）并点击其他鼠标按键组合（连招），来触发自定义动作。
+MouseCombo.spoon（鼠标连招） 是一个 Hammerspoon Spoon，用于将**鼠标组合**映射为**键盘快捷键**，实现单手高效操作。
+
+> 🎉 独立应用版本—— _**[MouseCombo](https://github.com/WooHooDai/MouseCombo)**_ —— 现已推出，欢迎使用。
+> <details>
+>         <summary>点击查看：MouseCombo 增强之处</summary>
+>         <br />
+>         <ul>
+>             <li>👀 可视配置：点击/按键即可录入，应用过滤勾选即可，无需手写配置；</li>
+>             <li>🧠 无需记忆：全局助记浮窗，照着点无需硬记</li>
+>             <li>🎵 乐趣音效：支持精细自定义触发音效，在游戏版强化肌肉记忆。</li>
+>         </ul>      
+>     </details>
 
 ## 功能特点
 
@@ -92,11 +102,6 @@ return actions
 local actions = require("config.mouseComboActions")
 local combos = {r,{l},actions.copy}
 ```
-
-## TODO
-- [ ] 组合键提示清单 / CheatSheet
-- [ ] 更好的配置形式
-
 
 ## 许可证
 本项目采用 MIT 许可证，详见[LICENSE](https://opensource.org/license/MIT)。
